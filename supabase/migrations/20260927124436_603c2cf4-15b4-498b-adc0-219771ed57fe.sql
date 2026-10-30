@@ -1,0 +1,1 @@
+ALTER FUNCTION public.save_project(uuid,date,text,uuid,numeric,text,text,text,uuid[]) SECURITY INVOKER;
